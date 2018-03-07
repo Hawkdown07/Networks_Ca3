@@ -1,1 +1,3 @@
 # Networks_Ca3
+The following app is an online whiteboard that allows users to collaborate on a drawing. On the landing page the user is shown a blank canvas with a color option going down the side and a line size/eraser size option along the top of the canvas. If the user selects the white color in the selection they will be able to erase whats all ready on the board.
+To run the app first you need to download all the files then in the comand prompt cd to the location of the folder. After this use the command "Nodemon server.js" to run the server. Then you can go to your favourite browser and type in localhost:3000 which will take you to the app.
